@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Andrew! 👋</h1>
 
 ## Engineering
-I am currently employed with Microsoft working on safe, efficient Rust code supporting low resource edge devices. A lot of the cool stuff we do is closed source. But the legacy product I helped to build is open source at [Azure/iotedge](https://github.com/Azure/iotedge/graphs/contributors).
+I am currently employed with Microsoft working on edge computing for IoT devices. We write safe, efficient Rust code supporting low resource edge devices. A lot of the cool stuff we do is closed source. But the legacy product I helped to build is open source at [Azure/iotedge](https://github.com/Azure/iotedge/graphs/contributors).
 
 I do ML research on the side, with an interest in non-backprop-based learning methods. I am currently collaborating with some postdocs in the same area.
 
