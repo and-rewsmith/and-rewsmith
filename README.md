@@ -20,7 +20,7 @@ The climate is important to me. It would mean a lot if you would read [this post
 [![Gmail Badge](https://img.shields.io/badge/-andrew.smith.recruiting@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrew.smith.recruiting@gmail.com)](mailto:andrew.smith.recruiting@gmail.com)
 
 ## Metrics
-<metrics drowdown>
+<details>
 <p align="center">
   <a href="https://github.com/and-rewsmith">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=and-rewsmith&theme=transparent" />
