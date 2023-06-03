@@ -14,7 +14,7 @@ If you want to reach out here is my email:
 
 andrew.smith.recruiting@gmail.com
 
--------------------------------------------------------------------------
+## Stats
 <details>
 <p align="center">
   <a href="https://github.com/and-rewsmith">
