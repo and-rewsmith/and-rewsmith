@@ -10,7 +10,7 @@ I am currently employed (on leave) with Microsoft working on edge computing for 
 I do ML research on the side, with an interest in non-backprop-based learning methods. I am currently collaborating with some postdocs in the same area.
 
 ## Research
-I am taking a hiatus from microsoft to join Allen Institute to continue working on my independent research in coordination with the University of Washington. I am working on biologically plausible, local learning networks.
+I am taking a hiatus from microsoft to join Allen Institute, where I am continuing my independent research in coordination with the University of Washington. I am working on biologically plausible, local learning networks.
 
 
 ## Volunteering
