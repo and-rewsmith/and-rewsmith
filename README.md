@@ -3,15 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=and-rewsmith&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 </p>
 
+## Research
+I am taking a hiatus from Microsoft to join Allen Institute, where I am continuing my independent research in coordination with the University of Washington. I am working on biologically plausible, local learning networks.
 
 ## Engineering
 I am currently employed (on leave) with Microsoft working on edge computing for IoT devices. We write safe, efficient Rust code supporting low resource edge devices. A lot of the cool stuff we do is closed source. But the legacy product I helped to build is open source at [Azure/iotedge](https://github.com/Azure/iotedge/graphs/contributors).
 
 I do ML research on the side, with an interest in non-backprop-based learning methods. I am currently collaborating with some postdocs in the same area.
-
-## Research
-I am taking a hiatus from microsoft to join Allen Institute, where I am continuing my independent research in coordination with the University of Washington. I am working on biologically plausible, local learning networks.
-
 
 ## Volunteering
 The climate is important to me. It would mean a lot if you would read [this post](https://np.reddit.com/r/worldnews/comments/bxgd5p/single_most_important_stat_on_the_planet_alarm_as/eq6bvl0/).
