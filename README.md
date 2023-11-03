@@ -23,6 +23,7 @@ https://citizensclimatelobby.org/
 [![Twitter Badge](https://img.shields.io/badge/-yo_smit-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://https://twitter.com/yo_smit/)](https://www.twitter.com/yo_smit/)
 [![Instagram Badge](https://img.shields.io/badge/-and.rewsmith-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/and.rewsmith/)](https://www.instagram.com/and.rewsmith/)
 [![Blog Badge](https://img.shields.io/badge/RSS-FFA500?style=flat-square&logo=rss&logoColor=white)](http://and-rewsmith.github.io)
+[![Scholar Badge](https://img.shields.io/badge/research-8A2BE2)](https://scholar.google.com/citations?user=-GZbr7EAAAAJ&hl=en)
 
 
 
