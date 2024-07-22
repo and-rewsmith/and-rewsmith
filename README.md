@@ -4,7 +4,7 @@
 </p>
 
 ## Research
-I am taking a hiatus from Microsoft to join Allen Institute, where I am continuing my independent research in coordination with the University of Washington. I am working on biologically plausible, local learning networks.
+I am a PhD student at UCSC with a focus in neuromorphic computing. I also work at Allen Institute on bioplausible neural architectures. 
 
 ## Engineering
 I am currently employed (on leave) with Microsoft working on edge computing for IoT devices. We write safe, efficient Rust code supporting low resource devices. A lot of the cool stuff we do is closed source. But the legacy product I helped to build is open source at [Azure/iotedge](https://github.com/Azure/iotedge).
