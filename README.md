@@ -7,7 +7,7 @@
 I am a PhD student at UCSC with a focus in neuromorphic computing. I also work at Allen Institute on bioplausible neural architectures. 
 
 ## Engineering
-I am currently employed (on leave) with Microsoft working on edge computing for IoT devices. We write safe, efficient Rust code supporting low resource devices. A lot of the cool stuff we do is closed source. But the legacy product I helped to build is open source at [Azure/iotedge](https://github.com/Azure/iotedge).
+I previously worked at Microsoft on edge computing for IoT devices. We write safe, efficient Rust code supporting low resource devices. A lot of the cool stuff we do is closed source. But the legacy product I helped to build is open source at [Azure/iotedge](https://github.com/Azure/iotedge).
 
 ## Volunteering
 The climate is important to me. It would mean a lot if you would read [this post](https://np.reddit.com/r/worldnews/comments/bxgd5p/single_most_important_stat_on_the_planet_alarm_as/eq6bvl0/).
