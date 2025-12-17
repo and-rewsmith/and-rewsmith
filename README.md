@@ -4,16 +4,14 @@
 </p>
 
 ## Research
-I am a PhD student at UCSC with a focus in neuromorphic computing. I also work at Allen Institute on bioplausible neural architectures. 
+I am a PhD student at UCSC with a focus in neuromorphic computing. I previously worked at Allen Institute on bioplausible neural architecture. 
 
 ## Engineering
-I previously worked at Microsoft on edge computing for IoT devices. We write safe, efficient Rust code supporting low resource devices. A lot of the cool stuff we do is closed source. But the legacy product I helped to build is open source at [Azure/iotedge](https://github.com/Azure/iotedge).
+In the past, I also worked at Microsoft on edge computing for IoT devices. We write safe, efficient Rust code supporting low resource devices. A lot of the cool stuff we do is closed source. But the legacy product I helped to build is open source at [Azure/iotedge](https://github.com/Azure/iotedge).
 
-## Volunteering
-The climate is important to me. It would mean a lot if you would read [this post](https://np.reddit.com/r/worldnews/comments/bxgd5p/single_most_important_stat_on_the_planet_alarm_as/eq6bvl0/).
+## Research Contact
 
-Please consider joining Citizen's Climate Lobby (non partisan):
-https://citizensclimatelobby.org/
+I am a big fan of Energy Based Models and continual learning. If you would like to collaborate, please email me at andsmi@ucsc.edu.
 
 ## Contact
 [![Gmail Badge](https://img.shields.io/badge/-andrew.smith.recruiting@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrew.smith.recruiting@gmail.com)](mailto:andrew.smith.recruiting@gmail.com)
