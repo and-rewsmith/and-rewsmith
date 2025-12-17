@@ -9,7 +9,7 @@ I am a PhD student at UCSC with a focus in neuromorphic computing. I previously 
 ## Engineering
 In the past, I also worked at Microsoft on edge computing for IoT devices. We write safe, efficient Rust code supporting low resource devices. A lot of the cool stuff we do is closed source. But the legacy product I helped to build is open source at [Azure/iotedge](https://github.com/Azure/iotedge).
 
-## Research Contact
+## Contact
 
 I am a big fan of Energy Based Models and continual learning. If you would like to collaborate, please email me at andsmi@ucsc.edu.
 
