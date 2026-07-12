@@ -14,7 +14,7 @@ In the past, I also worked at Microsoft on edge computing for IoT devices. We wr
 I am a big fan of Energy Based Models and continual learning. If you would like to collaborate, please email me at andsmi@ucsc.edu.
 
 ## Contact
-[![Gmail Badge](https://img.shields.io/badge/-andrew.smith.recruiting@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrew.smith.recruiting@gmail.com)](mailto:andrew.smith.recruiting@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-andrew.smith.communication@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrew.smith.communication@gmail.com)](mailto:andrew.smith.communication@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-AndrewSmith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/and-rewsmith/)](https://www.linkedin.com/in/and-rewsmith/)
 [![Twitter Badge](https://img.shields.io/badge/-yo_smit-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://https://twitter.com/yo_smit/)](https://www.twitter.com/yo_smit/)
 [![Instagram Badge](https://img.shields.io/badge/-and.rewsmith-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/and.rewsmith/)](https://www.instagram.com/and.rewsmith/)
