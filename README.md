@@ -11,7 +11,7 @@ In the past, I also worked at Microsoft on edge computing for IoT devices. We wr
 
 ## Contact
 
-I am a big fan of Energy Based Models and continual learning. If you would like to collaborate, please email me at andsmi@ucsc.edu.
+I am a big fan of Energy Based Models and continual learning. If you would like to collaborate, please email me at andrew.smith.communication@gmail.com.
 
 ## Contact
 [![Gmail Badge](https://img.shields.io/badge/-andrew.smith.communication@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrew.smith.communication@gmail.com)](mailto:andrew.smith.communication@gmail.com)
